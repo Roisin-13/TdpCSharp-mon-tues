@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.exe
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.deps.json
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.json
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.dll
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\ref\firstProject.dll
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\bin\Debug\net5.0\firstProject.pdb
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.dll
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\ref\firstProject.dll
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.pdb
+C:\Users\Admin\Desktop\tdpCSharp\firstProject\firstProject\obj\Debug\net5.0\firstProject.genruntimeconfig.cache
